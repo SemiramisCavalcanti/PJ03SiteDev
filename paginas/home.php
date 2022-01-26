@@ -1,5 +1,10 @@
 <!-- PARTE 01 -->
-<div class=" parte1">
+<div class="home" id="home">
+
+</div>
+
+
+<div class=" parte1" id="parte1">
     <div class="container">
         <img src="http://placehold.it/300x200" alt="">
 
@@ -19,7 +24,7 @@
 
 </div>
 <!-- PARTE 02 -->
-<div class="parte2">
+<div class="parte2" id="parte2">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -40,13 +45,13 @@
 
 
 <!-- PARTE 03 -->
-<div class="parte3"></div>
+<div class="parte3" id="parte03"></div>
 
 <!-- PARTE 04 -->
-<div class="parte4"></div>
+<div class="parte4" id="parte04"></div>
 
 <!-- PARTE 05 -->
-<div class="parte5"></div>
+<div class="parte5" id="parte5"></div>
 
 <!-- PARTE 06 -->
-<div class="parte6"></div>
+<div class="parte6" id="parte6"></div>
