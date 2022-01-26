@@ -1,0 +1,28 @@
+.parte1 {
+    background-color: black;
+}
+
+.btnlargo {
+    font-size: 150%;
+}
+
+.parte2 {
+    background-color: aquamarine;
+}
+
+.parte2 .text1 {
+    color: black;
+}
+
+.parte2 .text2 {
+    color: brown;
+}
+
+.parte2 .text3 {
+    color: blue;
+}
+
+.divcolor {
+    background-color: blue;
+    border-radius: 75%;
+}
