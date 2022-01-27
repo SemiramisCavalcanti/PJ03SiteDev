@@ -158,4 +158,14 @@
     </div>
 </div>
 
-
+<footer>
+<div class="container">
+    <div class="row">
+        <div class="col"></div>
+        <div class="col">
+            <img src="http://placehold.it/150x100" alt="">
+        </div>
+        <div class="col text-right mt-5"> <h5>Mussum Ipsum</h5></div>
+    </div>
+</div>
+</footer>
