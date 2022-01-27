@@ -89,13 +89,50 @@
 
 <!-- PARTE 04 -->
 <div class="parte4 container" id="parte04">
-    <p class="pt-5 mt-3"> <strong>Mussum Ipsum</strong> </p>
-    <h3 class=" text-center">Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</h3>
-    <h3 class=" text-center">Mussum Ipsum, cacilds vidis litro abertis. </h3>
+    <h4 class="pt-5 mt-3"> <strong>Mussum Ipsum</strong> </h4>
+    <h2 class=" text-center">Mussum Ipsum, cacilds vidis litro abertis.</h2>
+    <h2 class=" text-center"> Mauris nec dolor in eros commodo tempor. </h2>
+    <br>
+    <br>
+    <br>
+    <div class="row text-center m-0">
+        <h1 class="garantaja">Mussum Ipsum</h1>
+        <div class="elevation-4 divelevado ">
+            <h3>MUSSUM IPSUM</h3>
+            <br>
+            <h1>Xx R$ XX,XX</h1>
+            <h4> ou R$ XX,XX Mussum Ipsum</h4>
+            <br>
+            <br>
+            <button class="btn btn-light  rounded-pill"> Mussum IpsumIpsumIpsumIpsumIpsum</button>
+
+        </div>
+    </div>
+
+
+
+
 </div>
+
 
 <!-- PARTE 05 -->
 <div class="parte5" id="parte5"></div>
 
 <!-- PARTE 06 -->
 <div class="parte6" id="parte6"></div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
