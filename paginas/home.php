@@ -45,16 +45,29 @@
             </div>
             <div class="col-1"></div>
             <div class="col-4 divcolor">
-
             </div>
         </div>
-
     </div>
 </div>
 
 
 <!-- PARTE 03 -->
-<div class="parte3" id="parte03"></div>
+<div class="parte3" id="parte03">
+    <div class="container text-center">
+        <div class="row pt-5 mt-5">
+            <h4>Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</h4>
+
+        </div>
+        <div class="row mt-5">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+            </div>
+
+        </div>
+    </div>
+
+
+</div>
 
 <!-- PARTE 04 -->
 <div class="parte4" id="parte04"></div>
