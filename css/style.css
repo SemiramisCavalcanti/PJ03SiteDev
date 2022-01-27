@@ -7,7 +7,7 @@
 }
 
 .parte2 {
-    background-color: aquamarine;
+    background-color: aliceblue;
 }
 
 .parte2 .text1 {
@@ -15,14 +15,21 @@
 }
 
 .parte2 .text2 {
-    color: brown;
+    color: grey;
 }
 
 .parte2 .text3 {
-    color: blue;
+    color: rgb(62, 62, 66);
 }
 
 .divcolor {
-    background-color: blue;
-    border-radius: 75%;
+    background-color: grey;
+    border-radius: 10%;
+    margin-top: 3%;
+    height: 500px;
+    width: 400px;
+}
+
+.h1coresdiferentes {
+    display: block;
 }

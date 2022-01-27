@@ -15,7 +15,7 @@
             <div class="col">
                 <h1 class="text-light">Mussum Ipsum</h1>
                 <h3 class="text-light">Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.</h3>
-                <a href=""> <button class="btn btn-light rounded-pill mt-5 btn largo"> Mussum Ipsum, cacilds vidis litro abertis.</button></a>
+                <a href=""> <button class="btn btn-light rounded-pill mt-5 btnlargo"> Mussum Ipsum, cacilds vidis litro abertis.</button></a>
             </div>
         </div>
     </div>
@@ -27,15 +27,24 @@
 <div class="parte2" id="parte2">
     <div class="container">
         <div class="row">
-            <div class="col">
+            <div class="col-7">
                 <h5 class="text1 pt-5">Mussum Ipsum</h5>
-                <h1 class="text2">
-                    Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit.
-                    Vide electram sadipscing et per. <h1 class="text3">Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis</h1>
-                    <h1 class="text2"> santis. Cevadis im ampola pa arma uma pindureta.</h1>
-                </h1>
+                <h1 class="text2">Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan </h1>
+                <h1 class="text3">Per aumento de cachacis, eu reclamis. Paisis</h1>
+                <br>
+                <h5>Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. <strong>Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.</strong> </h5>
+                <br>
+                <h5><strong>Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</strong>Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</h5>
+                <br>
+                <h5> Mussum Ipsum <strong>Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.</strong>Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.</h5>
+                <br>
+                <h5>Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi!
+                    Diuretics paradis num copo é motivis de denguis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Casamentiss faiz malandris se pirulitá.
+                    A ordem dos tratores não altera o pão duris. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Per aumento de cachacis, eu reclamis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.</h5>
+                <button class="btn btn-dark rounded-pill mt-3 btnlargo"> Mussum Ipsum Posuere libero varius.</button>
             </div>
-            <div class="col divcolor">
+            <div class="col-1"></div>
+            <div class="col-4 divcolor">
 
             </div>
         </div>
