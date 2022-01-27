@@ -40,6 +40,10 @@
     height: 500px;
 }
 
+.parte04 {
+    background-color: antiquewhite;
+}
+
 .garantaja {
     font-size: 800%;
 }
@@ -53,4 +57,14 @@
     z-index: 100;
     margin: 0 auto;
     margin-top: -70px;
+}
+
+.parte5 {
+    background-color: black;
+    margin-top: 3%;
+    color: white;
+}
+
+.textparte5 {
+    font-size: 400%;
 }

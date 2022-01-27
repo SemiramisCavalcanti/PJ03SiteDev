@@ -116,7 +116,14 @@
 
 
 <!-- PARTE 05 -->
-<div class="parte5" id="parte5"></div>
+<div class="parte5" id="parte5">
+    <div class="container text-center">
+        <h1 class="textparte5 p-5 ">Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</h1>
+        <button class="btn btn-light btnlargo mb-5 rounded-pill"> Mussum Ipsum, cacilds vidis litro abert</button>           
+    </div>
+
+
+</div>
 
 <!-- PARTE 06 -->
 <div class="parte6" id="parte6"></div>
