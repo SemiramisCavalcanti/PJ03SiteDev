@@ -44,7 +44,28 @@
                 <button class="btn btn-dark rounded-pill mt-3 btnlargo"> Mussum Ipsum Posuere libero varius.</button>
             </div>
             <div class="col-1"></div>
-            <div class="col-4 divcolor">
+            <div class="col-4 divcolor text-center">
+                <h2 class="mt-5">Mussum Ipsum</h2>
+                <ul>
+                    <li>
+                        Mussum Ipsum
+                    </li>
+                    <li>
+                        Mussum Ipsum
+                    </li>
+                    <li>
+                        Mussum Ipsum
+                    </li>
+                    <li>
+                        Mussum Ipsum
+                    </li>
+                    <li>
+                        Mussum Ipsum
+                    </li>
+                    <li>
+                        Mussum Ipsum
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
