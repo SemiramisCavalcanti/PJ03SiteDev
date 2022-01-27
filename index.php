@@ -11,6 +11,7 @@ if ($pg) {
         case 'FenixEcho':
             include_once 'paginas/include/header.php';
             include_once 'paginas/home.php';
+            include_once 'paginas/include/footer.php';
             // include_once 'paginas/include/footer.php';
             break;
 
@@ -20,6 +21,7 @@ if ($pg) {
         default:
             include_once 'paginas/include/header.php';
             include_once 'paginas/home.php';
+            include_once 'paginas/include/footer.php';
             // include_once 'paginas/include/footer.php';
             break;
     }
@@ -27,5 +29,6 @@ if ($pg) {
     //não existe   
     include_once 'paginas/include/header.php';
     include_once 'paginas/home.php';
+    include_once 'paginas/include/footer.php';
     // include_once 'paginas/include/footer.php';
 }

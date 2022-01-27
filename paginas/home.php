@@ -6,7 +6,7 @@
 
 <div class=" parte1" id="parte1">
     <div class="container">
-        <img src="http://placehold.it/300x200" alt="">
+        <img src="http://placehold.it/300x200" alt="" cal>
 
         <div class="row mt-5 text-center m-0">
             <div class="col">
@@ -108,38 +108,54 @@
 
         </div>
     </div>
-
-
-
-
 </div>
-
 
 <!-- PARTE 05 -->
 <div class="parte5" id="parte5">
     <div class="container text-center">
         <h1 class="textparte5 p-5 ">Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</h1>
-        <button class="btn btn-light btnlargo mb-5 rounded-pill"> Mussum Ipsum, cacilds vidis litro abert</button>           
+        <button class="btn btn-light btnlargo mb-5 rounded-pill px-5 py-3"> Mussum Ipsum, cacilds vidis litro abert</button>
     </div>
-
-
 </div>
 
 <!-- PARTE 06 -->
-<div class="parte6" id="parte6"></div>
+<div class="parte6" id="parte6">
+    <div class="container">
+        <h5 class="mt-5">Ipsum</h5>
+        <h1 class="textparte6">
+            Mussum Ipsum
+        </h1>
+        <div class="dropdown  mt-3">
+                <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                    Mussum Ipsum, cacilds vidis litro abertis. 
+                </button>
+  
+            <ul class="dropdown-menu btninteiro fs-5" aria-labelledby="dropdownMenuButton1">
+                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis.  Mauris nec dolor in eros commodo tempor.</li>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+            </ul>
+        </div>
+        <div class="dropdown  mt-3">
+                <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                    Mussum Ipsum, cacilds vidis litro abertis. 
+                </button>
+  
+            <ul class="dropdown-menu btninteiro fs-5" aria-labelledby="dropdownMenuButton1">
+                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis.  Mauris nec dolor in eros commodo tempor.</li>
+
+            </ul>
+        </div>
+        <div class="dropdown  mt-3">
+                <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                    Mussum Ipsum, cacilds vidis litro abertis. 
+                </button>
+  
+            <ul class="dropdown-menu btninteiro fs-5" aria-labelledby="dropdownMenuButton1">
+                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis.  Mauris nec dolor in eros commodo tempor.</li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+
