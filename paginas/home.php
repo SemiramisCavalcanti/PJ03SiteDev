@@ -62,15 +62,16 @@
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
             </div>
-
         </div>
     </div>
-
-
 </div>
 
 <!-- PARTE 04 -->
-<div class="parte4" id="parte04"></div>
+<div class="parte4 container" id="parte04">
+    <p class="pt-5 mt-3"> <strong>Mussum Ipsum</strong> </p>
+    <h3 class=" text-center">Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</h3>
+    <h3 class=" text-center">Mussum Ipsum, cacilds vidis litro abertis. </h3>
+</div>
 
 <!-- PARTE 05 -->
 <div class="parte5" id="parte5"></div>
