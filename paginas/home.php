@@ -45,27 +45,36 @@
             </div>
             <div class="col-1"></div>
             <div class="col-4 divcolor text-center">
-                <h2 class="mt-5">Mussum Ipsum</h2>
-                <ul>
-                    <li>
-                        Mussum Ipsum
-                    </li>
-                    <li>
-                        Mussum Ipsum
-                    </li>
-                    <li>
-                        Mussum Ipsum
-                    </li>
-                    <li>
-                        Mussum Ipsum
-                    </li>
-                    <li>
-                        Mussum Ipsum
-                    </li>
-                    <li>
-                        Mussum Ipsum
-                    </li>
-                </ul>
+                <h2 class="mt-5 mb-5">Mussum Ipsum</h2>
+                <div class="row">
+                    <div class="col-5">
+                        <i class="fa fa-check mb-3"></i>
+                        <br>
+                        <i class="fa fa-check mb-3"></i>
+                        <br>
+                        <i class="fa fa-check mb-3"></i>
+                        <br>
+                        <i class="fa fa-check mb-3"></i>
+                        <br>
+                        <i class="fa fa-check mb-3"></i>
+                        <br>
+
+                    </div>
+                    <div class="col-5">
+
+                        <h5 class="text-left mb-3">Mussum Ipsum</h5>
+                        <h5 class="text-left mb-3">Mussum Ipsum</h5>
+                        <h5 class="text-left mb-3">Mussum Ipsum</h5>
+                        <h5 class="text-left mb-3">Mussum Ipsum</h5>
+                        <h5 class="text-left mb-3">Mussum Ipsum</h5>
+
+                    </div>
+                </div>
+
+
+
+
+
             </div>
         </div>
     </div>
@@ -126,32 +135,32 @@
             Mussum Ipsum
         </h1>
         <div class="dropdown  mt-3">
-                <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                    Mussum Ipsum, cacilds vidis litro abertis. 
-                </button>
-  
+            <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Mussum Ipsum, cacilds vidis litro abertis.
+            </button>
+
             <ul class="dropdown-menu btninteiro fs-5" aria-labelledby="dropdownMenuButton1">
-                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis.  Mauris nec dolor in eros commodo tempor.</li>
+                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</li>
 
             </ul>
         </div>
         <div class="dropdown  mt-3">
-                <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                    Mussum Ipsum, cacilds vidis litro abertis. 
-                </button>
-  
+            <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Mussum Ipsum, cacilds vidis litro abertis.
+            </button>
+
             <ul class="dropdown-menu btninteiro fs-5" aria-labelledby="dropdownMenuButton1">
-                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis.  Mauris nec dolor in eros commodo tempor.</li>
+                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</li>
 
             </ul>
         </div>
         <div class="dropdown  mt-3">
-                <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                    Mussum Ipsum, cacilds vidis litro abertis. 
-                </button>
-  
+            <button class="btn dropdown-toggle btninteiro text-left p-2 fs-3" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Mussum Ipsum, cacilds vidis litro abertis.
+            </button>
+
             <ul class="dropdown-menu btninteiro fs-5" aria-labelledby="dropdownMenuButton1">
-                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis.  Mauris nec dolor in eros commodo tempor.</li>
+                <li class="p-2"> Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.</li>
 
             </ul>
         </div>
@@ -159,13 +168,15 @@
 </div>
 
 <footer>
-<div class="container">
-    <div class="row">
-        <div class="col"></div>
-        <div class="col">
-            <img src="http://placehold.it/150x100" alt="">
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <img src="http://placehold.it/150x100" alt="">
+            </div>
+            <div class="col text-right mt-5">
+                <h5>Mussum Ipsum</h5>
+            </div>
         </div>
-        <div class="col text-right mt-5"> <h5>Mussum Ipsum</h5></div>
     </div>
-</div>
 </footer>
